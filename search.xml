@@ -8,7 +8,7 @@
       <link href="/2022/10/14/%E5%8D%9A%E5%AE%A2%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/"/>
       <url>/2022/10/14/%E5%8D%9A%E5%AE%A2%E5%8A%9F%E8%83%BD%E6%B5%8B%E8%AF%95%E6%96%87%E4%BB%B6/</url>
       
-        <content type="html"><![CDATA[<hr><p> 测试</p><h3 id="测试图床配置是否成功"><a href="#测试图床配置是否成功" class="headerlink" title="测试图床配置是否成功"></a>测试图床配置是否成功</h3><p><img src="https://cdn.jsdelivr.net/gh/moshoudanqie/ImageLibrary/BlogImage/boy.jpg" alt="boy.jpg"></p>]]></content>
+        <content type="html"><![CDATA[<hr><p> 测试</p><h3 id="测试图床配置是否成功"><a href="#测试图床配置是否成功" class="headerlink" title="测试图床配置是否成功"></a>测试图床配置是否成功</h3><p>这里是一些代码：</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="keyword">include</span><span class="string">&lt;stdio.h&gt;</span></span></span><br><span class="line"><span class="type">int</span> <span class="title function_">main</span><span class="params">()</span>&#123;</span><br><span class="line">    <span class="built_in">printf</span>(<span class="string">&quot;helloWorld&quot;</span>);</span><br><span class="line"><span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p><img src="https://cdn.jsdelivr.net/gh/moshoudanqie/ImageLibrary/BlogImage/pexels-photo-2387873.jpg"></p>]]></content>
       
       
       
