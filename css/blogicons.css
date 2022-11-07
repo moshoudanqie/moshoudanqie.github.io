@@ -13,6 +13,19 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-xiaohua:before {
+    content: "\e60f";
+}
+
+.icon-aixinhua:before {
+    content: "\e609";
+}
+
+.icon-huahonghuazhiwuhuaduo:before {
+    content: "\e622";
+}
+
+
 .icon-tuya-:before {
   content: "\e757";
   color:antiquewhite
